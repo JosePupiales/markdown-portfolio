@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Imagen del PoliBuho](https://cem.epn.edu.ec/imagenes/logos_institucionales/big_jpg/BUHO_EPN_big.jpg)
